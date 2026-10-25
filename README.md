@@ -89,6 +89,7 @@ To the extent possible under law, all contributors have waived all copyright and
 - [DeBRief.jl](https://github.com/dantebertuzzi/DeBRief.jl) &mdash; Estatísticas de crime e violência publicadas pelo ministério da justiça e segurança pública (Julia).
 - [logos-bancos-br](https://github.com/rzmt/logos-bancos-br) &mdash; Logos de instituições financeiras do Brasil (JavaScript).
 - [stackin-io/data-source](https://github.com/stackin-io/data-source) &mdash; Publicações oficiais dos documentos fiscais eletrônicos brasileiros.
+- [Dados B3](https://dadosb3.com) &mdash; Dados de ações, FIIs e ETFs da B3, com fundamentos da CVM, dividendos e indicadores ponto-no-tempo. API REST e conector MCP, chave grátis.
 
 ## Acre
 
